@@ -56,5 +56,3 @@ The goal of these exercises is to understand:
 Edison Zyberaj  
 MSc AI & Optimization Student  
 
-GitHub:
-:contentReference[oaicite:0]{index=0}
